@@ -21,18 +21,17 @@
 ###
 <div align="center">
   <a href="https://www.facebook.com/dat.duongtandat385" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=datse3805@gmail.com&su=&body=" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="gmail logo" 
-  />
-</a>
-  <a href="https://x.com/DatSE3805" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="https://www.linkedin.com/in/datduongtandat385/" target="_blank">
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=datduongtandat385@gmail.com&su=&body=" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
+      height="35" 
+      alt="gmail logo" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/duongtandat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
