@@ -44,7 +44,7 @@
 <p><strong>Passion:</strong> Learning new technologies, problem-solving, and coding </p>
 <p><strong>Fun fact:</strong> I enjoy playing football </p>
 
-[👉 More information about me](https://preview--datse3805.lovable.app/)
+[👉 More information about me](https://my-portfolio-project-lilac.vercel.app/)
 
 ### 🎓 Background
 - [ ] Fundamental programing
